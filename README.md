@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on a python Instructor Paperwork Automation Tool for the scuba community 
 - 🌱 I’m currently learning Python, Flask and SQL 
-- 👯 I’m looking to collaborate on a human verification system (the next gen CAPTCHA) to better establish trusted communication in a AI text generated world, digital security, privacy and simple tools to automate.   
+- 👯 I’m looking to collaborate on a human verification system (the next gen CAPTCHA) to better establish trusted communication in a AI text generated world, digital security, privacy and simple automatation tools.   
 - 🤔 I’m looking for help with getting more involved in the tech world!
-- 💬 Ask me about Scuba Diving! Sourdough and Woodworking
+- 💬 Ask me about Scuba Diving! Sourdough and woodworking
 - 📫 How to reach me: brendan.development@pm.me
 <!-- ⚡ Fun fact: ... -->
 
