@@ -3,7 +3,7 @@
 I'm a PADI Course Director #212293 (Instructor Trainer) turned passionate Python developer from Canada. After managing a Dive Shop for 14 years and training hundreds of scuba divers I'm excited to take a new "plunge" into the world of technology. 
 
 - 🔭 I’m currently working on a python Instructor Paperwork Completion Tool for the scuba community 
-- 🌱 I’m currently learning Python, Flask, SQL, git and linux 
+- 🌱 I’m currently learning Python, Flask, SQL, Git and Linux 
 - 👯 I’m looking to collaborate on a human verification system (the next gen CAPTCHA) to better establish trusted communication in a AI text generated world, digital security, privacy and simple automatation tools.   
 - 🤔 I’m looking for help with getting more involved in the tech world!
 - 💬 Ask me about Scuba Diving! Sourdough and woodworking
