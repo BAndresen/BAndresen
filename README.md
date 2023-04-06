@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Brendan
-
-<h3 align="center">A Scuba Diver turned passionate Python developer from Canada</h3>
+### Hi there 👋 I'm Brendan a PADI Course Director (Instructor Trainer) turned passionate Python developer from Canada</h3>
 
 
 <h3 align="left">Connect with me:</h3>
