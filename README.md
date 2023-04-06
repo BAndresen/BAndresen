@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Brendan a PADI Course Director #212293 (Instructor Trainer) turned passionate Python developer from Canada. After managing a Dive Shop for 14 years and training hundreds of divers I've shifted gears and now taking the "plunge" into the technology world.  
+<h1> Hi there 👋 I'm Brendan </h1>
+
+<h2>I'm a PADI Course Director #212293 (Instructor Trainer) turned passionate Python developer from Canada. After managing a Dive Shop for 14 years and training hundreds of divers I've shifted gears and now taking the "plunge" into the technology world.</h2>
 
 - 🔭 I’m currently working on a python Instructor Paperwork Automation Tool for the scuba community 
 - 🌱 I’m currently learning Python, Flask and SQL 
