@@ -13,7 +13,8 @@ I'm a PADI Course Director #212293 (Instructor Trainer) turned passionate Python
 
 #### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/brendan-andresen-42204a265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brendan-andresen-42204a265/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brendan-andresen-42204a265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brendan-andresen-42204a265/" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/19899554/brendan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stack overflow" width="40" height="40"/></a>  
+
 </p>
 
 #### Languages and Tools:
