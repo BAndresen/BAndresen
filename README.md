@@ -22,6 +22,7 @@ I'm a PADI Course Director #212293 (Instructor Trainer) turned passionate Python
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/115e629f5e7da59e36e66c3cba0c0354bd9fbf6915fa1d97cfefebbac1045ddb/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d73656c656e69756d2d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f73656c656e69756d2e7376673f73616e6974697a653d74727565" alt="selenium" width="40" height="40"/></a>
 <a href="https://www.libreoffice.org/discover/calc/" target="_blank" rel="noreferrer"> <img src ="https://lh3.googleusercontent.com/-CVsUqEsTc9U/Yd7fFt7vRdI/AAAAAAAAhqA/4ZufmKhQWlglqkHZWCgjQo__M0C2iIbigCNcBGAsYHQ/libreoffice-calc-logo.png" alt="selenium" width="40" height="40"/></a>
 <a href="https://www.gimp.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="Gimp" width="40" height="40"/></a>
+<a href="https://sqlite.org/index.html" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLlite" width="40" height="40"/></a>
   
 </p>
 
