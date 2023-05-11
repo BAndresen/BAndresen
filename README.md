@@ -26,7 +26,7 @@ I'm a PADI Course Director (Scuba Diving Instructor Trainer) and inspiring Pytho
   
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bandresen&label=Profile%20views&color=0e75b6&style=flat" alt="bandresen" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bandresen&label=Profile%20views&color=0e75b6&style=flat" alt="bandresen" /> </p>
 
 
 <!--
