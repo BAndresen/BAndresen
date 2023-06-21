@@ -3,7 +3,7 @@
 I'm a PADI Course Director (Scuba Diving Instructor Trainer) and inspiring Python Developer from Canada. After managing a Dive Shop for 14 years and training hundreds of scuba divers I decided to take the "plunge" into the world of technology. 
 
 - 🔭 I’m currently working on a <a href="https://github.com/BAndresen/instructor_assistant">Instructor Assistant</a>, which helps PADI Instructors complete course paperwork 
-- 🌱 I’m currently learning Python, Flask, SQL, Git and Linux 
+- 🌱 I’m currently learning Python, SQL, Git and Linux 
 - 💬 Ask me about Scuba Diving and Tech!
 - 📫 How to reach me: brendan.development@pm.me
 
