@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brendan 
 
-I'm a PADI Course Director (Scuba Diving Instructor Trainer) and inspiring Python Developer from Canada. After managing a Dive Shop for 14 years and training hundreds of scuba divers I decided to take the "plunge" into the world of technology. 
+I'm an enthusiastic and dedicated Python Programmer with a passion for continuous learning and a strong desire to expand back-end knowledge. Leveraging 14 years of experience in the scuba diving industry, managing instructional teams and certifying hundreds of student divers, I have cultivated a robust foundation of soft skills. Currently, I am focused on developing innovative tools for the scuba diving community, aiming to enhance user experiences and improve operational efficiency for businesses. 
 
 - 🔭 I’m currently working on a <a href="https://github.com/BAndresen/instructor_assistant">Instructor Assistant</a>, which helps PADI Instructors complete course paperwork 
 - 🌱 I’m currently learning Python, SQL, Git and Linux 
