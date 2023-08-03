@@ -11,7 +11,7 @@ I'm an enthusiastic and dedicated Python Developer with a passion for learning a
 #### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/brendan-andresen-42204a265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brendan-andresen-42204a265/" height="30" width="40" /></a> 
-<a href="https://www.hackerrank.com/brendan_develop1?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/brendan_develop1?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45" width="45" /></a>
 
 </p>
 
