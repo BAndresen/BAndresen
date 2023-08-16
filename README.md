@@ -6,7 +6,7 @@ I'm an enthusiastic and dedicated Python Developer with a passion for learning. 
   + <a href="https://github.com/BAndresen/instructor_assistant">Instructor Assistant</a>
       + A Desktop App to help PADI Instructors complete course paperwork
   + <a href="https://github.com/BAndresen/TOJA">TOJA</a>
-      + Track, Optimize your Job Application process
+      + A Destop App to Track and Optimize your Job Application process
 + 🌱 I’m currently learning Python, SQL, Git and Django 
 + 💬 Ask me about Scuba Diving and Tech!
 + 📫 How to reach me: brendan.development@pm.me
