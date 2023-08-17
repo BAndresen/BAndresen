@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Brendan 
 
-I'm an enthusiastic and dedicated Python Developer with a passion for learning. In addition to my technical skills I have 15 years of experience in the scuba diving industry, training and managing instructional teams and certifying hundreds of student divers, cultivating a robust foundation of soft skills. Currently, I am focused on developing innovative tools for the scuba diving community, aiming to enhance user experiences and improve operational efficiency for businesses.
+I'm an enthusiastic and dedicated Python Developer with a passion for learning. In addition to my technical skills I have 15 years of experience in the scuba diving industry, training and managing instructional teams and certifying hundreds of student divers, cultivating a robust foundation of soft skills. 
+
+Currently, I'm learning Django and studying for the AWS Solutions Architect certification. I'm also focused on developing innovative tools for the scuba diving community, aiming to enhance user experiences and improve operational efficiency for businesses.
 
 + 🔭 I’m currently working on:
   + <a href="https://github.com/BAndresen/instructor_assistant">Instructor Assistant</a>
       + A Desktop App to help PADI Instructors complete course paperwork
   + <a href="https://github.com/BAndresen/TOJA">TOJA</a>
       + A Desktop App to Track and Optimize your Job Application process
-+ 🌱 I’m currently learning Python, SQL, Git and Django 
-+ 💬 Ask me about Scuba Diving and Tech!
 + 📫 How to reach me: brendan.development@pm.me
 
 
