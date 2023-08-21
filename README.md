@@ -9,7 +9,6 @@ Currently, I'm learning Django and studying for the AWS Solutions Architect cert
       + A Desktop App to help PADI Instructors complete course paperwork
   + <a href="https://github.com/BAndresen/TOJA">TOJA</a>
       + A Desktop App to Track and Optimize your Job Application process
-+ 📫 How to reach me: brendan.development@pm.me
 
 
 #### Connect with me:
