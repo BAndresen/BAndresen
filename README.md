@@ -21,7 +21,6 @@ Currently, I'm learning Django and studying for the AWS Solutions Architect cert
 #### Languages and Tools:
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/></a>
 <a href= "https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" alt="django" width="40" height="40"/></a>
