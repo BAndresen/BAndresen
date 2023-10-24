@@ -5,8 +5,8 @@ I'm an enthusiastic and dedicated Python Developer with a passion for learning. 
 Currently, I'm learning Django and studying for the AWS Solutions Architect certification. I'm also focused on developing innovative tools for the scuba diving community, aiming to enhance user experiences and improve operational efficiency for businesses.
 
 + 🔭 I’m currently working on:
-  + <a href="https://github.com/BAndresen/instructor_assistant">Instructor Assistant</a>
-      + A Desktop App to help PADI Instructors complete course paperwork
+  <!-- + <a href="https://github.com/BAndresen/instructor_assistant">Instructor Assistant</a>
+      + A Desktop App to help PADI Instructors complete course paperwork -->
   + <a href="https://github.com/BAndresen/TOJA">TOJA</a>
       + A Desktop App to Track and Optimize your Job Application process
 
