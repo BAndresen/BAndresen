@@ -6,7 +6,7 @@ I enjoy learning new skills and building desktop and web tools to practice these
 
 My recent project, <a href='https://seasavvydiver.com'>https://seasavvydiver.com</a> is a website that collects and distributes scuba diving information. Users can search and compare equipment prices, courses, sales and upcoming trips all in one place.
 
-<a href="https://github.com/BAndresen/TOJA">Toja</a> is a open-source desktop application that helps users track and optimize their job applications. Users are motivated to persist with the job search by earning points with every new event and levelling up. Use the keyword search function to discover in-demand skills from employers and upload your resume for a unique score.
+<a href="https://github.com/BAndresen/TOJA">Toja</a> is a open-source desktop application that helps users track and optimize their job applications. Users are motivated to persist with the job search by earning points with each new event and levelling up. Use the keyword search function to discover in-demand skills from employers and upload your resume for a unique score.
 
 #### Connect with me:
 <p align="left">
