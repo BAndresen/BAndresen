@@ -1,15 +1,12 @@
 ### Hi there 👋 I'm Brendan 
 
-I'm an enthusiastic and dedicated Python Developer with a passion for learning. In addition to my technical skills I have 15 years of experience in the scuba diving industry, training and managing instructional teams and certifying hundreds of student divers, cultivating a robust foundation of soft skills. 
+I'm an aspiring self-taught Software Developer with a passion for learning. After 14 years of managing a dive store and teaching scuba diving full time, I decided to make a change and take the plunge into the world of technology.
 
-Currently, I'm learning Django and studying for the AWS Solutions Architect certification. I'm also focused on developing innovative tools for the scuba diving community, aiming to enhance user experiences and improve operational efficiency for businesses.
+I enjoy learning new skills and building desktop and web tools to practice these technologies. Currently, I'm studying for the AWS Solutions Architect Certification and building my skills from the Django technology stack. 
 
-+ 🔭 I’m currently working on:
-  <!-- + <a href="https://github.com/BAndresen/instructor_assistant">Instructor Assistant</a>
-      + A Desktop App to help PADI Instructors complete course paperwork -->
-  + <a href="https://github.com/BAndresen/TOJA">TOJA</a>
-      + A Desktop App to Track and Optimize your Job Application process
+My recent project, <a href='https://seasavvydiver.com'>https://seasavvydiver.com</a> is a website that collects and distributes scuba diving information. Users can search and compare equipment prices, courses, sales and upcoming trips all in one place.
 
+<a href="https://github.com/BAndresen/TOJA">Toja</a> is a open-source desktop application that helps users track and optimize their job applications. Users are motivated to persist with the job search by earning points with every new event and levelling up. Use the keyword search function to discover in-demand skills from employers and upload your resume for a unique score.
 
 #### Connect with me:
 <p align="left">
