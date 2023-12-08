@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brendan 
 
-I'm an self-taught Software Developer with a passion for learning. After 14 years of managing a dive store and teaching scuba diving full time, I decided to make a change and take the plunge into the world of technology.
+I'm a self-taught Software Developer with a passion for learning. After 14 years of managing a dive store and teaching scuba diving full time, I decided to make a change and take the plunge into the world of technology.
 
 I enjoy learning new skills and building desktop and web tools to practice these technologies. Currently, I'm studying for the AWS Solutions Architect Certification and building my skills from the Django technology stack. 
 
