@@ -17,11 +17,11 @@ My recent project, <a href='https://seasavvydiver.com'>https://seasavvydiver.com
 
 #### Languages and Tools:
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/></a>
 <a href= "https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" alt="django" width="40" height="40"/></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/115e629f5e7da59e36e66c3cba0c0354bd9fbf6915fa1d97cfefebbac1045ddb/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d73656c656e69756d2d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f73656c656e69756d2e7376673f73616e6974697a653d74727565" alt="selenium" width="40" height="40"/></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MYSQL" width="37" height="37"/></a>
 
 <!--<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> --> 
