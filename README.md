@@ -1,12 +1,17 @@
 ### Hi there 👋 I'm Brendan 
 
-I'm a self-taught Software Developer with a passion for learning. After 14 years of managing a dive store and teaching scuba diving full time, I decided to make a change and take the plunge into the world of technology.
+I'm a passionate, self-taught Software Developer eager to have a positive impact in the age of technology. I began my career as a Scuba Diving Instructor, travelling and leading guided trips around the world. I've organized and led international group trips to Belize, Honduras, and Mexico and taught hundreds of students, rising to the highest rank of PADI Course Director. After 14 years of managing a dive store and teaching scuba diving full-time, I decided to make a change and take the plunge into the world of technology.
 
-I enjoy learning new skills and building desktop and web tools to practice these technologies. Currently, I'm studying for the AWS Solutions Architect Certification and building my skills from the Django technology stack. 
+Currently, I specialize in providing tech solutions for small businesses through my role at P3 Development. I'm also actively pursuing the AWS Solutions Architect Certification and honing my skills in the Django technology stack 
 
-My recent project, <a href='https://seasavvydiver.com'>https://seasavvydiver.com</a> is a website that collects and distributes scuba diving information. Users can search and compare equipment prices, courses, sales and upcoming trips all in one place.
+My recent project, <a href='https://seasavvydiver.com'>https://seasavvydiver.com</a> is a website that collects and distributes scuba diving equipment information from the top Canadian online retailers. This helps users make informed purchasing decisions with confidence, allowing them to focus on enjoying the sport or diving. Store items are kept up to to date with a custom python selenium application running locally, before pushing to a Django web application running on a AWS EC2 instance. 
 
-<a href="https://github.com/BAndresen/TOJA">Toja</a> is a open-source desktop application that helps users track and optimize their job applications. Users are motivated to persist with the job search by earning points with each new event and levelling up. Use the keyword search function to discover in-demand skills from employers and upload your resume for a unique score.
+<a href="https://github.com/BAndresen/TOJA">Toja</a> is another personal project. It's an open-source desktop application written in Python that helps users track and optimize their job applications. Users are motivated to persist with the job search by earning points with each new event and levelling up. Toja also uses Natural Language Processing to search the users job database for keywords to discover in-demand skills and also provide a unique resume score.
+
+Feel free to explore my GitHub for more details. I'm always eager to connect and discuss opportunities in the tech industry.
+
+
+
 
 #### Connect with me:
 <p align="left">
