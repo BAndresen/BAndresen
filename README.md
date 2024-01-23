@@ -2,7 +2,7 @@
 
 I'm a passionate, self-taught Software Developer eager to have a positive impact in the age of technology. I began my career as a Scuba Diving Instructor, travelling and leading guided trips around the world. I've organized and led international group trips to Belize, Honduras, and Mexico and taught hundreds of students, rising to the highest rank of PADI Course Director. After 14 years of managing a dive store and teaching scuba diving full-time, I decided to make a change and take the plunge into the world of technology.
 
-Currently, I specialize in providing tech solutions for small businesses through my role at P3 Development. I'm also actively pursuing the AWS Solutions Architect Certification and honing my skills in the Django technology stack 
+Currently, I specialize in providing tech solutions for small businesses through my role at P3 Development. I'm also actively pursuing the AWS Solutions Architect Certification and honing my skills in the Django and Wordpress technology stack 
 
 My recent project, <a href='https://seasavvydiver.com'>https://seasavvydiver.com</a> is a website that collects and distributes scuba diving equipment information from the top Canadian online retailers. This helps users make informed purchasing decisions with confidence, allowing them to focus on enjoying the sport or diving. Store items are kept up to to date with a custom python selenium application running locally, before pushing to a Django web application running on a AWS EC2 instance. 
 
