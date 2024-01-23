@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brendan 
 
-I'm a passionate, self-taught Software Developer eager to have a positive impact in the age of technology. I began my career as a Scuba Diving Instructor, travelling and leading guided trips around the world. I've organized and led international group trips to Belize, Honduras, and Mexico and taught hundreds of students, rising to the highest rank of PADI Course Director. After 14 years of managing a dive store and teaching scuba diving full-time, I decided to make a change and take the plunge into the world of technology.
+I'm a passionate, self-taught Software Developer eager to have a positive impact in the age of technology. I began my career as a Scuba Diving Instructor, travelling and leading guided trips around the world. I've organized and led international group trips to Belize, Honduras, and Mexico and certified hundreds of students, rising to the highest rank of PADI Course Director. After 14 years of managing a dive store and teaching scuba diving full-time, I decided to make a change and take the plunge into the world of technology.
 
 Currently, I specialize in providing tech solutions for small businesses through my role at P3 Development. I'm also actively pursuing the AWS Solutions Architect Certification and honing my skills in the Django and Wordpress technology stack 
 
