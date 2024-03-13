@@ -1,16 +1,14 @@
 ### Hi there 👋 I'm Brendan 
 
-I'm a passionate, self-taught Software Developer eager to have a positive impact in the age of technology. I began my career as a Scuba Diving Instructor, travelling and leading guided trips around the world. I've organized and led international group trips to Belize, Honduras, and Mexico and certified hundreds of students, rising to the highest rank of PADI Course Director. After 14 years of managing a dive store and teaching scuba diving full-time, I decided to make a change and take the plunge into the world of technology.
+I'm a self-taught Software Developer eager to contribute to the ever-evolving landscape of technology. My professional journey began as a Scuba Diving Instructor, certifying hundreds of students and eventually achieving the highest rank in the professional instructor realm as a <a href="https://www.padi.com/courses/course-director">PADI Course Director</a>. As a diving professional, I was passionate about improving safety in the industry and served for 3 years as the Diving Safety Officer for UCBC, where I analyzed accident reports and made recommendations. Throughout my career, I led guided dive trips worldwide, organizing and spearheading group expeditions to destinations like Belize, Honduras, Costa Rica, and Mexico. After 14 years of managing the oldest dive club in Canada at the University of British Columbia and dedicating myself to full-time scuba diving instruction, I decided to pivot into the world of technology.
 
-Currently, I specialize in providing tech solutions for small businesses through my role at P3 Development. I'm also actively pursuing the AWS Solutions Architect Certification and honing my skills in the Django and Wordpress technology stack 
+Currently, I specialize in providing tech solutions for small businesses in my role at P3 Development. I'm passionate about topics related to security, privacy, and using technology to increase individual autonomy and agency. I'm actively pursuing the AWS Solutions Architect Certification and honing my skills in the Django and Wordpress technology stack.
 
-My recent project, <a href='https://seasavvydiver.com'>https://seasavvydiver.com</a> is a website that collects and distributes scuba diving equipment information from the top Canadian online retailers. This helps users make informed purchasing decisions with confidence, allowing them to focus on enjoying the sport or diving. Store items are kept up to to date with a custom python selenium application running locally, before pushing to a Django web application running on a AWS EC2 instance. 
+One of my recent projects, <a href='https://seasavvydiver.com'>https://seasavvydiver.com</a> is a website that collects and distributes up-to-date scuba diving equipment information from the top Canadian online retailers, helping users make informed purchasing decisions with confidence.
 
-<a href="https://github.com/BAndresen/TOJA">Toja</a> is another personal project. It's an open-source desktop application written in Python that helps users track and optimize their job applications. Users are motivated to persist with the job search by earning points with each new event and levelling up. Toja also uses Natural Language Processing to search the users job database for keywords to discover in-demand skills and also provide a unique resume score.
+Another personal project of mine is <a href="https://github.com/BAndresen/TOJA">Toja</a>, an open-source desktop application written in Python that helps users track and optimize their job applications. Users earn points with each new event and level up, motivating them to persist with the job search. Toja also utilizes Natural Language Processing to search the user's job database for keywords, discovering in-demand skills and providing a unique resume score.
 
-Feel free to explore my GitHub for more details. I'm always eager to connect and discuss opportunities in the tech industry.
-
-
+Feel free to explore my GitHub and Projects sections for more details. I'm always eager to connect and discuss opportunities in the tech industry
 
 
 </p>
