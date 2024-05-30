@@ -1,16 +1,12 @@
 ### Hi there 👋 I'm Brendan 
 
+In 2023, driven by a growing interest in technology, I transitioned from my role at UBC to pursue an education in software development. I founded Scuba Technology, a company specializing in web development services for scuba diving businesses. My goal is to leverage my extensive diving experience and technological expertise to provide value to the diving community. In addition, I actively develop open-source software for the dive community, including the Instructor Assistant, a free tool to help PADI Instructors complete course paperwork efficiently.
+
 My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located on the University of British Columbia (UBC) campus. Over 14 years, I managed annual budgets, drove both e-commerce and in-person sales, and organized course logistics. Additionally, I served as a PADI Scuba Diving Instructor, certifying hundreds of students and achieving the highest rank of PADI Course Director. As a Course Director, I focused on professional development, conducting Instructor Development Courses at UBC for 10 years with a 100% candidate pass rate on the PADI Instructor Exam.
 
 Committed to improving safety in the diving industry, I served as the Diving Safety Officer for UBC for three years. I coordinated with the BC Coroner's Office after incidents to analyze scuba diving accidents, and published annual fatality reports to promote awareness, safety, and risk management.
 
 I am also dedicated to fostering a love of underwater exploration in the next generation. For seven years, I volunteered with the Big Brothers of Greater Vancouver, organizing charity events and offering free Discover Scuba Diving Sessions at the UBC Aquatic Center.
-
-My passion for exploration led me to organize and lead guided dive trips worldwide, including expeditions to Belize, Honduras, Costa Rica, and Mexico.
-
-In 2023, driven by a growing interest in technology, I transitioned from my role at UBC to pursue an education in software development. I founded Scuba Technology, a company specializing in web development services for scuba diving businesses. My goal is to leverage my extensive diving experience and technological expertise to provide value to the diving community.
-
-I actively develop open-source software for the dive community, including the Instructor Assistant, a free tool to help PADI Instructors complete course paperwork efficiently. 
 
 </p>
 
