@@ -4,10 +4,6 @@ In 2023, driven by a growing interest in technology, I transitioned from my role
 
 My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located on the University of British Columbia (UBC) campus. Over 14 years, I managed annual budgets, drove both e-commerce and in-person sales, and organized course logistics. Additionally, I served as a PADI Scuba Diving Instructor, certifying hundreds of students and achieving the highest rank of PADI Course Director. As a Course Director, I focused on professional development, conducting Instructor Development Courses at UBC for 10 years with a 100% candidate pass rate on the PADI Instructor Exam.
 
-Committed to improving safety in the diving industry, I served as the Diving Safety Officer for UBC for three years. I coordinated with the BC Coroner's Office after incidents to analyze scuba diving accidents, and published annual fatality reports to promote awareness, safety, and risk management.
-
-I am also dedicated to fostering a love of underwater exploration in the next generation. For seven years, I volunteered with the Big Brothers of Greater Vancouver, organizing charity events and offering free Discover Scuba Diving Sessions at the UBC Aquatic Center.
-
 </p>
 
 #### Languages and Tools:
