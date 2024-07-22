@@ -8,9 +8,15 @@
 <!-- About Section -->
 <details>
   <summary>🧑 About</summary>
-In 2023, driven by a growing interest in technology, I transitioned from my role at UBC to pursue an education in software development. I founded Scuba Technology, a company specializing in web development services for scuba diving businesses. My goal is to leverage my extensive diving experience and technological expertise to provide value to the diving community. In addition, I actively develop open-source software for the dive community, including the Instructor Assistant, a free tool to help PADI Instructors complete course paperwork efficiently.
+  <p>
+     <img align="right" width="350" src="https://github.com/BAndresen/BAndresen/blob/main/assets/brendan_teaching.png" alt="Brendan Andresen" />
 
+<blockquote>
+In 2023, driven by a growing interest in technology, I transitioned from my role at UBC to pursue an education in software development. I founded Scuba Technology, a company specializing in web development services for scuba diving businesses. My goal is to leverage my extensive diving experience and technological expertise to provide value to the diving community. In addition, I actively develop open-source software for the dive community, including the Instructor Assistant, a free tool to help PADI Instructors complete course paperwork efficiently.
+</p><p>
 My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located on the University of British Columbia (UBC) campus. Over 14 years, I managed annual budgets, drove both e-commerce and in-person sales, and organized course logistics. Additionally, I served as a PADI Scuba Diving Instructor, certifying hundreds of students and achieving the highest rank of PADI Course Director. As a Course Director, I focused on professional development, conducting Instructor Development Courses at UBC for 10 years with a 100% candidate pass rate on the PADI Instructor Exam.
+
+</blockquote>
 </details>
 </p>
 
