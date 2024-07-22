@@ -3,6 +3,8 @@
 <!-- social/contact -->
 <p align="center">
 <a href="https://www.linkedin.com/in/brendan-andresen/"><img src="https://img.shields.io/badge/Brendan%20Andresen-blue?logo=linkedin"></a>
+<a href="https://www.youtube.com/@octcuda7821"><img src="https://img.shields.io/badge/Octcuda-ff0000?logo=youtube&logoColor=white&labelColor=ff0000"></a>
+
 </p>
    
 
