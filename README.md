@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋 I'm Brendan </h1> 
 
+<!-- social/contact -->
+<p align="center">
+<a href="https://www.linkedin.com/in/brendan-andresen/"><img src="https://img.shields.io/badge/Brendan%20Andresen-blue?logo=linkedin"></a>
+</p>
+   
+
+
 <details>
    <summary><b>↕️ Expand for more!</b></summary>
   
-   <br>
-   
 <!-- About Section -->
 <details>
   <summary>🧑 About</summary>
