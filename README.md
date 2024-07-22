@@ -9,7 +9,7 @@
 <details>
   <summary>🧑 About</summary>
   <p>
-     <img align="right" width="350" src="https://github.com/BAndresen/BAndresen/blob/main/assets/brendan_teaching.png" alt="Brendan Andresen" />
+     <img align="right" width="300" src="https://github.com/BAndresen/BAndresen/blob/main/assets/teaching.png" alt="Brendan Andresen" />
 
 <blockquote>
 In 2023, driven by a growing interest in technology, I transitioned from my role at UBC to pursue an education in software development. I founded Scuba Technology, a company specializing in web development services for scuba diving businesses. My goal is to leverage my extensive diving experience and technological expertise to provide value to the diving community. In addition, I actively develop open-source software for the dive community, including the Instructor Assistant, a free tool to help PADI Instructors complete course paperwork efficiently.
