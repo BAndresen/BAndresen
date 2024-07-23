@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋 I'm Brendan </h1> 
 
-<!-- social/contact -->
+<!-- Social/Contact -->
 <p align="center">
 <a href="https://www.linkedin.com/in/brendan-andresen/"><img src="https://img.shields.io/badge/Brendan%20Andresen-blue?logo=linkedin"></a>
 <a href="https://www.youtube.com/@octcuda7821"><img src="https://img.shields.io/badge/Octcuda-ff0000?logo=youtube&logoColor=white&labelColor=ff0000"></a>
+<a href="https://gist.githubusercontent.com/BAndresen/1ca9809fef780170188122f2b23520a5/raw/47ca9955f896831b5a3f0827633d158276ce3eea/scuba-technology-public-key.asc"><img src="https://img.shields.io/badge/PGP%20Public%20Key-209c25"></a>
 
 </p>
    
-
-
 <!-- About Section -->
 <details>
   <summary>🧑 About</summary>
