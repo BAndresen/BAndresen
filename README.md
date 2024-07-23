@@ -33,6 +33,7 @@ My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located
 **Core** | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)  [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
 **Cloud** | ![AWS](https://img.shields.io/badge/AWS-ff9900?logo=amazon&logoColor=white&labelColor=ff9900)
 **Web** | ![Django](https://img.shields.io/badge/Django-092e20?logo=Django&logoColor=white&labelColor=092e20) ![Nginx](https://img.shields.io/badge/Nginx-0e9748?logo=nginx&logoColor=white&labelColor=0e9748)
+**AI** | ![Spacy](https://img.shields.io/badge/spaCy-09a3d5?logo=spacy&logoColor=white)
 **Build and Release** | ![NSIS](https://img.shields.io/badge/NSIS-f0453f?logo=NSIS&logoColor=white&labelColor=f0453f) ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?logo=github%20actions&logoColor=white&labelColor=2088ff)
 **Database** | ![Sqlite](https://img.shields.io/badge/SQlite-1686ce?logo=sqlite&logoColor=white&labelColor=1686ce) ![MySQL](https://img.shields.io/badge/MySQL-e48e00?logo=mysql&logoColor=white&labelColor=e48e00)
 **Testing** |[![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
@@ -44,3 +45,38 @@ My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located
 **Graphic Design**  | ![GIMP](https://img.shields.io/badge/GIMP-5e5746?logo=gimp&logoColor=white&labelColor=5e5746) ![Inkscape](https://img.shields.io/badge/Inkscape-2f2f2f?logo=inkscape&logoColor=white&labelColor=2f2f2f)
   
 </details>
+
+<!-- About Section -->
+<details>
+  <summary>💼 Projects</summary>
+   
+### Toja
+_A desktop application to track and optimize users job applications and optimize resume_
+<p>
+   
+**Stats**
+<br>
+<img src="https://img.shields.io/github/v/release/bandresen/toja">
+<img src="https://img.shields.io/github/issues/bandresen/toja">
+<img src="https://img.shields.io/github/downloads/bandresen/toja/total">
+<img src="https://img.shields.io/github/actions/workflow/status/bandresen/toja/test.yml?label=test">
+</p>
+
+**Technologies**
+<br>
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+![NSIS](https://img.shields.io/badge/NSIS-f0453f?logo=NSIS&logoColor=white&labelColor=f0453f) ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?logo=github%20actions&logoColor=white&labelColor=2088ff)
+![Static Badge](https://img.shields.io/badge/spaCy-09a3d5?logo=spacy&logoColor=white)
+![Sqlite](https://img.shields.io/badge/SQlite-1686ce?logo=sqlite&logoColor=white&labelColor=1686ce)
+
+----
+### SeaSavvyDiver
+
+---
+### Instructor Assistant
+<p>
+<img src="https://img.shields.io/github/v/release/bandresen/instructor_assistant">
+</p>
+
+</details>
+
