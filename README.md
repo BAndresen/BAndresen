@@ -15,11 +15,16 @@
      <img align="right" width="200" src="https://github.com/BAndresen/BAndresen/blob/main/assets/teaching.png" alt="Brendan Andresen"/>
   </p>
 <blockquote>
-   <p>
-In 2023, driven by a growing interest in technology, I transitioned from my role at UBC to pursue an education in software development. I founded Scuba Technology, a company specializing in web development services for scuba diving businesses. My goal is to leverage my extensive diving experience and technological expertise to provide value to the diving community. In addition, I actively develop open-source software for the dive community, including the Instructor Assistant, a free tool to help PADI Instructors complete course paperwork efficiently.
-</p><p>
-My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located on the University of British Columbia (UBC) campus. Over 14 years, I managed annual budgets, drove both e-commerce and in-person sales, and organized course logistics. Additionally, I served as a PADI Scuba Diving Instructor, certifying hundreds of students and achieving the highest rank of PADI Course Director. As a Course Director, I focused on professional development, conducting Instructor Development Courses at UBC for 10 years with a 100% candidate pass rate on the PADI Instructor Exam.
 
+<p>      
+In 2023, driven by a passion for technology and a desire to integrate it with my extensive diving expertise, I transitioned from my role at UBC to pursue a career in software development. I founded Scuba Technology, a company dedicated to providing innovative web development and software solutions tailored specifically for the scuba diving industry.
+</p>
+<p>   
+My professional journey began at Canada’s Oldest Diving Club, located on the University of British Columbia (UBC) campus. Over 14 years, I managed annual budgets, increased e-commerce and in-person sales, and organized course logistics. As a PADI Scuba Diving Instructor, I certified hundreds of students and achieved the esteemed rank of PADI Course Director.
+</p>
+<p>   
+Currently, I am focused on attracting new clients, advancing my education, and contributing to software projects that benefit the diving community.
+</p>  
 </blockquote>
 </details>
 </p>
