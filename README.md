@@ -29,7 +29,7 @@ My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located
 
 | **Category** | **Technologies** |
 | - | - |
-**Frontend** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) ![HTML](https://img.shields.io/badge/HTML-e34e26?logo=html5&logoColor=white&labelColor=e34e26) ![Bootstrap](https://img.shields.io/badge/Bootstrap-8312fa?logo=bootstrap&logoColor=white&labelColor=8312fa)
+**Front end** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) ![HTML](https://img.shields.io/badge/HTML-e34e26?logo=html5&logoColor=white&labelColor=e34e26) ![Bootstrap](https://img.shields.io/badge/Bootstrap-8312fa?logo=bootstrap&logoColor=white&labelColor=8312fa)
 **Core** | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)  [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
 **Cloud** | ![AWS](https://img.shields.io/badge/AWS-ff9900?logo=amazon&logoColor=white&labelColor=ff9900)
 **Web** | ![Django](https://img.shields.io/badge/Django-092e20?logo=Django&logoColor=white&labelColor=092e20) ![Nginx](https://img.shields.io/badge/Nginx-0e9748?logo=nginx&logoColor=white&labelColor=0e9748)
@@ -41,7 +41,7 @@ My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located
 **E-commerce** | ![Shopify](https://img.shields.io/badge/Shopify-96bf47?logo=shopify&logoColor=white&labelColor=96bf47)
 **Content Management System** | ![Wordpres](https://img.shields.io/badge/Wordpress-21759b?logo=wordpress&logoColor=white&labelColor=21759b)
 **Security Tools** | ![bitward](https://img.shields.io/badge/Bitwarden-175ddc?logo=bitwarden&logoColor=white&labelColor=175ddc)
-**Hardward and Embedded Systems** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-c02449?logo=raspberry%20pi&logoColor=white&labelColor=c02449)
+**Hardware and Embedded Systems** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-c02449?logo=raspberry%20pi&logoColor=white&labelColor=c02449)
 **Graphic Design**  | ![GIMP](https://img.shields.io/badge/GIMP-5e5746?logo=gimp&logoColor=white&labelColor=5e5746) ![Inkscape](https://img.shields.io/badge/Inkscape-2f2f2f?logo=inkscape&logoColor=white&labelColor=2f2f2f)
   
 </details>
@@ -70,7 +70,7 @@ _A desktop application to track and optimize users job applications and resume._
 <br>
 
 ## 2. [SeaSavvyDiver](https://seasavvydiver.com)
-_A website to find current and historical prices on scuba diving products across canada._ 
+_A website to find current and historical prices on scuba diving products across Canada._ 
    
 **Technologies**
 <br>
