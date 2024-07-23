@@ -50,9 +50,8 @@ My career began as a Dive Shop Manager at Canada’s Oldest Diving Club, located
 <details>
   <summary>💼 Projects</summary>
    
-### Toja
-_A desktop application to track and optimize users job applications and optimize resume_
-<p>
+## 1. [Toja](https://github.com/BAndresen/TOJA)
+_A desktop application to track and optimize users job applications and resume._
    
 **Stats**
 <br>
@@ -60,7 +59,6 @@ _A desktop application to track and optimize users job applications and optimize
 <img src="https://img.shields.io/github/issues/bandresen/toja">
 <img src="https://img.shields.io/github/downloads/bandresen/toja/total">
 <img src="https://img.shields.io/github/actions/workflow/status/bandresen/toja/test.yml?label=test">
-</p>
 
 **Technologies**
 <br>
@@ -69,14 +67,38 @@ _A desktop application to track and optimize users job applications and optimize
 ![Static Badge](https://img.shields.io/badge/spaCy-09a3d5?logo=spacy&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQlite-1686ce?logo=sqlite&logoColor=white&labelColor=1686ce)
 
-----
-### SeaSavvyDiver
+<br>
 
----
-### Instructor Assistant
-<p>
+## 2. [SeaSavvyDiver](https://seasavvydiver.com)
+_A website to find current and historical prices on scuba diving products across canada._ 
+   
+**Technologies**
+<br>
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+![HTML](https://img.shields.io/badge/HTML-e34e26?logo=html5&logoColor=white&labelColor=e34e26)
+[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)
+![Django](https://img.shields.io/badge/Django-092e20?logo=Django&logoColor=white&labelColor=092e20)
+![Nginx](https://img.shields.io/badge/Nginx-0e9748?logo=nginx&logoColor=white&labelColor=0e9748)
+![Sqlite](https://img.shields.io/badge/SQlite-1686ce?logo=sqlite&logoColor=white&labelColor=1686ce)
+[![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
+![AWS](https://img.shields.io/badge/AWS-ff9900?logo=amazon&logoColor=white&labelColor=ff9900)
+
+
+<br>
+
+## 3. [Instructor Assistant](https://github.com/BAndresen/instructor_assistant)
+_A desktop application to help PADI Scuba Instructors complete standard course paperwork efficiently._
+   
+**Stats**
+<br>
 <img src="https://img.shields.io/github/v/release/bandresen/instructor_assistant">
-</p>
+<img src="https://img.shields.io/github/issues/bandresen/instructor_assistant">
+<img src="https://img.shields.io/github/downloads/bandresen/instructor_assistant/total">
+
+**Technologies**
+<br>
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+![NSIS](https://img.shields.io/badge/NSIS-f0453f?logo=NSIS&logoColor=white&labelColor=f0453f)
 
 </details>
 
