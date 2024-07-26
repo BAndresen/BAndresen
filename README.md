@@ -42,12 +42,13 @@ Currently, I am focused on attracting new clients, advancing my education, and c
 **Build and Release** | ![NSIS](https://img.shields.io/badge/NSIS-f0453f?logo=NSIS&logoColor=white&labelColor=f0453f) ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?logo=github%20actions&logoColor=white&labelColor=2088ff)
 **Database** | ![Sqlite](https://img.shields.io/badge/SQlite-1686ce?logo=sqlite&logoColor=white&labelColor=1686ce) ![MySQL](https://img.shields.io/badge/MySQL-e48e00?logo=mysql&logoColor=white&labelColor=e48e00)
 **Testing** |[![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
-**Editors** | ![Pycharm](https://img.shields.io/badge/PyCharm-21d789?logo=pycharm&logoColor=white&labelColor=21d789) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=25aef2&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
+**Editors and Tools** | ![Pycharm](https://img.shields.io/badge/PyCharm-21d789?logo=pycharm&logoColor=white&labelColor=21d789) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=25aef2&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/) ![Obsidian](https://img.shields.io/badge/obsidian-8b5cf6?logo=obsidian)
 **E-commerce** | ![Shopify](https://img.shields.io/badge/Shopify-96bf47?logo=shopify&logoColor=white&labelColor=96bf47)
 **Content Management System** | ![Wordpres](https://img.shields.io/badge/Wordpress-21759b?logo=wordpress&logoColor=white&labelColor=21759b)
 **Security Tools** | ![bitward](https://img.shields.io/badge/Bitwarden-175ddc?logo=bitwarden&logoColor=white&labelColor=175ddc)
 **Hardware and Embedded Systems** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-c02449?logo=raspberry%20pi&logoColor=white&labelColor=c02449)
 **Graphic Design**  | ![GIMP](https://img.shields.io/badge/GIMP-5e5746?logo=gimp&logoColor=white&labelColor=5e5746) ![Inkscape](https://img.shields.io/badge/Inkscape-2f2f2f?logo=inkscape&logoColor=white&labelColor=2f2f2f)
+**Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
   
 </details>
 
