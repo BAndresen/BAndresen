@@ -75,25 +75,8 @@ _A desktop application to track and optimize users job applications and resume._
 
 <br>
 
-## 2. [SeaSavvyDiver](https://seasavvydiver.com)
-_A website to find current and historical prices on scuba diving products across Canada._ 
-   
-**Technologies**
-<br>
-[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)
-![HTML](https://img.shields.io/badge/HTML-e34e26?logo=html5&logoColor=white&labelColor=e34e26)
-![CSS](https://img.shields.io/badge/CSS-264de4?logo=css3)
-[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)
-![Django](https://img.shields.io/badge/Django-092e20?logo=Django&logoColor=white&labelColor=092e20)
-![Nginx](https://img.shields.io/badge/Nginx-0e9748?logo=nginx&logoColor=white&labelColor=0e9748)
-![Sqlite](https://img.shields.io/badge/SQlite-1686ce?logo=sqlite&logoColor=white&labelColor=1686ce)
-[![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
-![AWS](https://img.shields.io/badge/AWS-ff9900?logo=Amazon%20web%20services)
 
-
-<br>
-
-## 3. [Instructor Assistant](https://github.com/BAndresen/instructor_assistant)
+## 2. [Instructor Assistant](https://github.com/BAndresen/instructor_assistant)
 _A desktop application to help PADI Scuba Instructors complete standard course paperwork efficiently._
    
 **Stats**
