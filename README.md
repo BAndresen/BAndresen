@@ -16,15 +16,18 @@
   </p>
 <blockquote>
 
-<p>      
-In 2023, driven by a passion for technology and a desire to integrate it with my extensive diving expertise, I transitioned from my role at UBC to pursue a career in software development. I founded Scuba Technology, a company dedicated to providing innovative web development and software solutions tailored specifically for the scuba diving industry.
+<p> 
+I’m a versatile professional transitioning from a 14‑year leadership career in the dive industry into tech, where I leverage hands‑on problem solving, team management, and a passion for automation to drive real‑world impact.
 </p>
-<p>   
-My professional journey began at Canada’s oldest diving club on the University of British Columbia campus. Over 14 years, I managed annual budgets, increased e-commerce and in-person sales, organized course logistics, and maintained a comprehensive rental fleet. As a PADI Scuba Diving Instructor, I certified hundreds of students and achieved the esteemed rank of PADI Course Director.
+<p>
+At Canada’s oldest diving club (UBC Aqua Society), I rose to PADI Course Director, the highest instructor credential, overseeing safety standards, e‑commerce, retail and service operations. I led a team of instructors, certified hundreds of divers, and organized local and international expeditions, always delivering seamless, high‑quality experiences under pressure.
 </p>
-<p>   
-Currently, I am focused on attracting new clients, advancing my education, and contributing to software projects that benefit the diving community.
-</p>  
+<p>
+Over the past two years, I’ve applied the same rigor and continuous‑improvement mindset to Python development, building and maintaining automation tools that streamline administrative and sales workflows in the fire‑prevention sector. I also design and deploy client websites using Django, WordPress, JavaScript, HTML, and CSS, delivering clean, responsive design with intuitive functionality.
+<p>
+My goal is to keep bringing this blend of leadership, technical acumen, and customer‑centric focus into my future tech project. 
+</p>
+
 </blockquote>
 </details>
 </p>
